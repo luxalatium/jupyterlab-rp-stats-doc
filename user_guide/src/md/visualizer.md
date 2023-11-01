@@ -1,54 +1,54 @@
 # Data visualizer <a id='table_of_contents-visualizer'></a>
 
 ### Table of Contents
->[The data visualizer tab](#visualizer_tab) <br>
->[Button list of job info and modules](#visualizer_module_buttons) <br>
->[Visualizer options](#visualizer_options) <br>
->[The plot window](#plot_window) <br>
->[Timeline and heatmap plot](#timeline_and_heatmap_plot) <br>
->[Arrange plots in the main work area](#arrange_plots) <br>
->[Visualize live streaming data](#visualize_stream_data) <br>
->[The TACC Stats data import button](#ts_data_import_button) <br>
+>[The data visualizer tab](#slide31) <br>
+>[Job info and module buttons](#slide32) <br>
+>[Visualizer options](#slide33) <br>
+>[The plot window](#slide34) <br>
+>[Arrange plots in the main work area](#slide35) <br>
+>[Timeline and heatmap plot](#slide37) <br>
+>[Visualize live streaming data](#slide39) <br>
+>[The TACC Stats data import button](#slide41) <br>
 
-[[Home]](../../user_guide.md)
+[[Main]](../../user_guide.md)
 
-<img src="../png/Slide31.png" alt="drawing" width="1080"/>
-
-[[Top]](#table_of_contents-visualizer)
-
-<img src="../png/Slide32.png" alt="drawing" width="1080"/>
+<img id='slide31' src="../png/Slide31.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide33.png" alt="drawing" width="1080"/>
+<img id='slide32' src="../png/Slide32.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide34.png" alt="drawing" width="1080"/>
+<img id='slide33' src="../png/Slide33.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide35.png" alt="drawing" width="1080"/>
+<img id='slide34' src="../png/Slide34.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide36.png" alt="drawing" width="1080"/>
+<img id='slide35' src="../png/Slide35.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide37.png" alt="drawing" width="1080"/>
+<img id='slide36' src="../png/Slide36.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide38.png" alt="drawing" width="1080"/>
+<img id='slide37' src="../png/Slide37.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide39.png" alt="drawing" width="1080"/>
+<img id='slide38' src="../png/Slide38.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide40.png" alt="drawing" width="1080"/>
+<img id='slide39' src="../png/Slide39.png" alt="drawing" width="1080"/>
+
+[[Top]](#table_of_contents-visualizer)
+
+<img id='slide40' src="../png/Slide40.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
 

@@ -1,23 +1,24 @@
 # Basics <a id='table_of_contents-basics'></a>
 
 ### Table of Contents
->[test1](#test1)  <br>
->[Three basic modes](#three_basic_modes)  <br>
->[RP data directory](#data_dir) <br>
->[RP modules](#rp_modules) <br>
->[Job metrics](#job_metrics) <br>
->[Ways to start data collection for a job](#start_colloection_types) <br>
->[Batch mode (RP wrapper script)](#batch_mode) <br>
->[Python mode (RP python library)](#python_mode) <br>
+>[Start JupyterLab with RP-Stats on Frontera](#slide2)  <br>
+>[JupyterLab user interface](#slide3)  <br>
+>[Three basic modes](#slide4)  <br>
+>[RP data_dir directory](#slide5) <br>
+>[RP modules](#slide6) <br>
+>[Job metrics](#slide7) <br>
+>[Ways to start data collection for a job](#slide9) <br>
+>[Batch mode (RP wrapper script)](#slide10) <br>
+>[Python mode (RP Python library)](#slide11) <br>
 
-[[Home]](../../user_guide.md)
+[[Main]](../../user_guide.md)
 
 
-<img id='test1' src="../png/Slide2.png" alt="drawing" width="1080"/>
+<img id='slide2' src="../png/Slide2.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide3.png" alt="drawing" width="1080"/>
+<img id='slide3' src="../png/Slide3.png" alt="drawing" width="1080"/>
 
 <details>
 <summary>[DEMO] Open RP-Stats panel</summary>
@@ -30,35 +31,35 @@
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide4.png" alt="drawing" width="1080"/>
+<img id='slide4' src="../png/Slide4.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide5.png" alt="drawing" width="1080"/>
+<img id='slide5' src="../png/Slide5.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide6.png" alt="drawing" width="1080"/>
+<img id='slide6' src="../png/Slide6.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide7.png" alt="drawing" width="1080"/>
+<img id='slide7' src="../png/Slide7.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide8.png" alt="drawing" width="1080"/>
+<img id='slide8' src="../png/Slide8.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide9.png" alt="drawing" width="1080"/>
+<img id='slide9' src="../png/Slide9.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide10.png" alt="drawing" width="1080"/>
+<img id='slide10' src="../png/Slide10.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
-<img src="../png/Slide11.png" alt="drawing" width="1080"/>
+<img id='slide11' src="../png/Slide11.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-basics)
 
