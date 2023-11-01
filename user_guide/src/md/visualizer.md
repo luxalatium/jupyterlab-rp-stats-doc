@@ -11,6 +11,7 @@
 >[The TACC Stats data import button](#slide41) <br>
 
 [[Main]](../../user_guide.md)
+[[Basics]](./basics.md) 
 [[Collector]](./collector.md) 
 [[Analyzer]](./analyzer.md)
 

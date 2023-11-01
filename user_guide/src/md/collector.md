@@ -21,6 +21,7 @@
 >[The User guide button](#slide30) <br>
 
 [[Main]](../../user_guide.md)
+[[Basics]](./basics.md) 
 [[Visualizer]](./visualizer.md)
 [[Analyzer]](./analyzer.md)
 

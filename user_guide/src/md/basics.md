@@ -12,6 +12,10 @@
 >[Python mode (RP Python library)](#slide11) <br>
 
 [[Main]](../../user_guide.md)
+[[Basics]](./basics.md) 
+[[Collector]](./collector.md)
+[[Visualizer]](./visualizer.md)
+[[Analyzer]](./analyzer.md)
 
 
 <img id='slide2' src="../png/Slide2.png" alt="drawing" width="1080"/>
