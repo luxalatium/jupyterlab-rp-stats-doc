@@ -11,8 +11,8 @@
 >[The TACC Stats data import button](#slide41) <br>
 
 [[Main]](../../user_guide.md)
-[[Collector]](../collector.md) 
-[[Analyzer]](../analyzer.md)
+[[Collector]](./collector.md) 
+[[Analyzer]](./analyzer.md)
 
 <img id='slide31' src="../png/Slide31.png" alt="drawing" width="1080"/>
 

@@ -21,8 +21,8 @@
 >[The User guide button](#slide30) <br>
 
 [[Main]](../../user_guide.md)
-[[Visualizer]](../visualizer.md)
-[[Analyzer]](../analyzer.md)
+[[Visualizer]](./visualizer.md)
+[[Analyzer]](./analyzer.md)
 
 <img id='slide12' src="../png/Slide12.png" alt="drawing" width="1080"/>
 
