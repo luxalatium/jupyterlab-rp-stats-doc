@@ -52,6 +52,6 @@
 
 [[Top]](#table_of_contents-visualizer)
 
-<img src="../png/Slide41.png" alt="drawing" width="1080"/>
+<img id='slide41' src="../png/Slide41.png" alt="drawing" width="1080"/>
 
 [[Top]](#table_of_contents-visualizer)
