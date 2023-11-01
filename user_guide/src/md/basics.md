@@ -1,14 +1,14 @@
 # Basics <a id='table_of_contents-basics'></a>
 
 ### Table of Contents
->[test1](#test1)
->[Three basic modes](#three_basic_modes)
->[RP data directory](#data_dir)
->[RP modules](#rp_modules)
->[Job metrics](#job_metrics)
->[Ways to start data collection for a job](#start_colloection_types)
->[Batch mode (RP wrapper script)](#batch_mode)
->[Python mode (RP python library)](#python_mode)
+>[test1](#test1)  <br>
+>[Three basic modes](#three_basic_modes)  <br>
+>[RP data directory](#data_dir) <br>
+>[RP modules](#rp_modules) <br>
+>[Job metrics](#job_metrics) <br>
+>[Ways to start data collection for a job](#start_colloection_types) <br>
+>[Batch mode (RP wrapper script)](#batch_mode) <br>
+>[Python mode (RP python library)](#python_mode) <br>
 
 [[Home]](../../user_guide.md)
 

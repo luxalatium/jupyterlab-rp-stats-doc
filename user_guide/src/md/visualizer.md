@@ -1,14 +1,14 @@
 # Data visualizer <a id='table_of_contents-visualizer'></a>
 
 ### Table of Contents
->[The data visualizer tab](#visualizer_tab)
->[Button list of job info and modules](#visualizer_module_buttons)
->[Visualizer options](#visualizer_options)
->[The plot window](#plot_window)
->[Timeline and heatmap plot](#timeline_and_heatmap_plot)
->[Arrange plots in the main work area](#arrange_plots)
->[Visualize live streaming data](#visualize_stream_data)
->[The TACC Stats data import button](#ts_data_import_button)
+>[The data visualizer tab](#visualizer_tab) <br>
+>[Button list of job info and modules](#visualizer_module_buttons) <br>
+>[Visualizer options](#visualizer_options) <br>
+>[The plot window](#plot_window) <br>
+>[Timeline and heatmap plot](#timeline_and_heatmap_plot) <br>
+>[Arrange plots in the main work area](#arrange_plots) <br>
+>[Visualize live streaming data](#visualize_stream_data) <br>
+>[The TACC Stats data import button](#ts_data_import_button) <br>
 
 [[Home]](../../user_guide.md)
 

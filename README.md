@@ -8,9 +8,9 @@ RP-Stats is a JupyterLab-based GUI for the REMORA resource monitoring tool
 Albert Lu (mailto:alu@tacc.utexas.edu)
 
 ## Resources
-[Quickstart Guide](./user_guide/user_guide.md)
-[REMORA GitHub repo](https://github.com/TACC/remora)
-[TACC Stats GitHub repo](https://github.com/TACC/tacc_stats)
+[Quickstart Guide](./user_guide/user_guide.md) <br>
+[REMORA GitHub repo](https://github.com/TACC/remora) <br>
+[TACC Stats GitHub repo](https://github.com/TACC/tacc_stats) <br>
 
 ## Reference
 

@@ -1,21 +1,21 @@
 # Data collector <a id='table_of_contents-collector'></a>
 
 ### Table of Contents
->[The data collector tab](#data_collection_controls)
->[Start data collection on a running job (attach mode)](#attach_mode)
->[The setting button](#setting_button)
->[The SLURM mode button](#slurm_mode_button)
->[The add user-defined module button](#add_user_module_button)
->[The information button](#information-button)
->[The paths and jobs info button](#paths-and-jobs-info)
->[The RP modules info button](#rp-modules-info)
->[The RP settings info button](#rp-settings-info)
->[The user metrics info button](#user-metrics-info)
->[The REMORAPY (RP) metrics info button](#rp-metrics-info)
->[The SLURM (SL) metrics info button](#sl-metrics-info)
->[The TACC Stats (TS) metrics info button](#ts-metrics-info)
->[The SLURM job status button](#slurm_job_status)
->[The User guide button](#user_guide)
+>[The data collector tab](#data_collection_controls) <br>
+>[Start data collection on a running job (attach mode)](#attach_mode) <br>
+>[The setting button](#setting_button) <br>
+>[The SLURM mode button](#slurm_mode_button) <br>
+>[The add user-defined module button](#add_user_module_button) <br>
+>[The information button](#information-button) <br>
+>[The paths and jobs info button](#paths-and-jobs-info) <br>
+>[The RP modules info button](#rp-modules-info) <br>
+>[The RP settings info button](#rp-settings-info) <br>
+>[The user metrics info button](#user-metrics-info) <br>
+>[The REMORAPY (RP) metrics info button](#rp-metrics-info) <br>
+>[The SLURM (SL) metrics info button](#sl-metrics-info) <br>
+>[The TACC Stats (TS) metrics info button](#ts-metrics-info) <br>
+>[The SLURM job status button](#slurm_job_status) <br>
+>[The User guide button](#user_guide) <br>
 
 [[Home]](../../user_guide.md)
 
