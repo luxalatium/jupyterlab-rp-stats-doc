@@ -27,7 +27,7 @@
 <summary>[DEMO] Open RP-Stats panel</summary>
 <br>
 <p align="center">
-<img src="../gif/rpstats-open.gif" alt="drawing" width="800"/>
+<img src="../gif/rpstats-open.gif" alt="drawing" width="600"/>
 </p>
 </details>
 <br>
@@ -36,9 +36,43 @@
 
 <img id='slide4' src="../png/Slide4.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Switch between the three main tabs </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-select-tabs.gif" alt="drawing" width="300"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-basics)
 
 <img id='slide5' src="../png/Slide5.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Add a new data_dir </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-add-data-dir.gif" alt="drawing" width="300"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Add a data_dir with an invalid path </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-wrong-data-dir.gif" alt="drawing" width="300"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Delete a data_dir </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-delete-data-dir.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-basics)
 

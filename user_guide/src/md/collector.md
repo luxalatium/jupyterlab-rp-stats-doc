@@ -27,13 +27,49 @@
 
 <img id='slide12' src="../png/Slide12.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Showing more options </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-more-options.gif" alt="drawing" width="300"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide13' src="../png/Slide13.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Start data collection (default) </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-default-run.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Stop data collection </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-simple-stop-job.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
+
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide14' src="../png/Slide14.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Default data collection without status monitoring </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-default-run-no-monitoring.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-collector)
 
