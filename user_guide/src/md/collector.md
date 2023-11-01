@@ -31,7 +31,7 @@
 <summary>[DEMO] Showing more options </summary>
 <br>
 <p align="center">
-<img src="../gif/rpstats-more-options.gif" alt="drawing" width="300"/>
+<img src="../gif/rpstats-more-options.gif" alt="drawing" width="400"/>
 </p>
 </details>
 <br>

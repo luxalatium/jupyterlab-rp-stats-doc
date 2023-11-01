@@ -40,7 +40,7 @@
 <summary>[DEMO] Switch between the three main tabs </summary>
 <br>
 <p align="center">
-<img src="../gif/rpstats-select-tabs.gif" alt="drawing" width="300"/>
+<img src="../gif/rpstats-select-tabs.gif" alt="drawing" width="400"/>
 </p>
 </details>
 <br>
@@ -53,7 +53,7 @@
 <summary>[DEMO] Add a new data_dir </summary>
 <br>
 <p align="center">
-<img src="../gif/rpstats-add-data-dir.gif" alt="drawing" width="300"/>
+<img src="../gif/rpstats-add-data-dir.gif" alt="drawing" width="400"/>
 </p>
 </details>
 
@@ -61,7 +61,7 @@
 <summary>[DEMO] Add a data_dir with an invalid path </summary>
 <br>
 <p align="center">
-<img src="../gif/rpstats-wrong-data-dir.gif" alt="drawing" width="300"/>
+<img src="../gif/rpstats-wrong-data-dir.gif" alt="drawing" width="400"/>
 </p>
 </details>
 
