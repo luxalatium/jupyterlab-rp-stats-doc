@@ -12,7 +12,6 @@
 >[Python mode (RP Python library)](#slide11) <br>
 
 [[Main]](../../user_guide.md)
-[[Basics]](./basics.md) 
 [[Collector]](./collector.md)
 [[Visualizer]](./visualizer.md)
 [[Analyzer]](./analyzer.md)
