@@ -11,6 +11,8 @@
 >[Task-metrics plot](#slide49) <br>
 
 [[Main]](../../user_guide.md)
+[[Collector]](../collector.md) 
+[[Visualizer]](../visualizer.md)
 
 <img id='slide42' src="../png/Slide42.png" alt="drawing" width="1080"/>
 
