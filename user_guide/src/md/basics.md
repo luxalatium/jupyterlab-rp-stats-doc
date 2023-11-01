@@ -94,6 +94,16 @@
 
 <img id='slide10' src="../png/Slide10.png" alt="drawing" width="1080"/>
 
+
+<details>
+<summary>[DEMO] Batch mode in RP-Stats </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-batch-mode.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-basics)
 
 <img id='slide11' src="../png/Slide11.png" alt="drawing" width="1080"/>

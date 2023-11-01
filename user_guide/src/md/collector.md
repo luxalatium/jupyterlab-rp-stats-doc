@@ -83,17 +83,125 @@
 
 <img id='slide17' src="../png/Slide17.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Customize setting </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-customize-setting.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Save setting </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-save-setting.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Load setting </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-load-setting.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Remove setting </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-remove-setting.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] ALL-RP, ALL-TS, and CLEAR button </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-all-rp-ts-clear.gif" alt="drawing" width="400"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide18' src="../png/Slide18.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Data collection in SLURM mode </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-run-slurm-mode.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Data collection in SLURM mode without job status monitoring </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-run-slurm-mode-no-monitoring.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Stop a SLURM job </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-stop-slurm-job.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Customize SLURM options </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-customize-slurm.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-collector)
 
 <img id='slide19' src="../png/Slide19.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Test a user module </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-test-user-module.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Add a user module </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-add-user-module.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide20' src="../png/Slide20.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Load a user module file </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-load-user-module.gif" alt="drawing" width="600"/>
+</p>
+</details>
+
+<details>
+<summary>[DEMO] Delete a user module </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-delete-user-module.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-collector)
 
