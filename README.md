@@ -1,17 +1,26 @@
-# Jupyterlab-RP-Stats
+# Jupyterlab-RP-Stats Quickstart Guide
 
+## Description
 
-## Quickstart Guide
+RP-Stats is a JupyterLab-based GUI for the REMORA resource monitoring tool
 
-<p align="center">
-<img src="./user_guide/Slide2.png" alt="drawing" width="1080"/>
-</p>
+## Developer
+Albert Lu (mailto:alu@tacc.utexas.edu)
 
+## Resources
+[Quickstart Guide](./user_guide/user_guide.md)
+[REMORA GitHub repo](https://github.com/TACC/remora)
+[TACC Stats GitHub repo](https://github.com/TACC/tacc_stats)
 
-<details>
-<summary>Demo: Access RP-Stats on Frontera</summary>
-<br>
-<p align="center">
-<img src="./gif/rpstats-open.gif" alt="drawing" width="800"/>
-</p>
-</details>
+## Reference
+
+Chun-Yaung Lu and Kent Milfeld, "REMORA Resource Monitor: Usability, Performance and User Interface Improvements", SC-W 2023, November 12–17, 2023, Denver, CO, USA
+ACM ISBN 979-8-4007-0785-8/23/11
+https://doi.org/10.1145/3624062.3624141
+
+## Copyright
+(C) 2023 University of Texas at Austin
+
+## License
+
+This work is licensed under the Creative Commons Attribution Non-Commercial 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/. When attributing this work, please use the following text: “RP-STATS QuickStart Guide”, Texas Advanced Computing Center, 2023. Available under a Creative Commons Attribution Non-Commercial 3.0 Unported License.
