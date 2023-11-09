@@ -306,7 +306,7 @@
 <summary>[DEMO] Info button: SLURM JOBS </summary>
 <br>
 <p align="center">
-<img src="../gif/rpstats-info-sl-metrics.gif" alt="drawing" width="600"/>
+<img src="../gif/rpstats-info-slurm-jobs.gif" alt="drawing" width="600"/>
 </p>
 </details>
 <br>
