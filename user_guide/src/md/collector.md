@@ -1,24 +1,24 @@
 # Data collector <a id='table_of_contents-collector'></a>
 
 ### Table of Contents
->[The data collector tab](#slide12) <br>
->[Start data collection on a running job](#slide13) <br>
->[More control options for data collection](#slide14) <br>
->[Different approaches to start data collection in RP-Stats](#slide15) <br>
->[The setting button](#slide17) <br>
->[The SLURM mode button](#slide18) <br>
->[The add user-defined module button](#slide19) <br>
->[Load user-defined module file](#slide20) <br>
->[The Information button](#slide21) <br>
->[The paths and job info button](#slide22) <br>
->[The RP modules info button](#slide23) <br>
->[The RP settings info button](#slide24) <br>
->[The user-metrics info button](#slide25) <br>
->[The RP metrics info button](#slide26) <br>
->[The SLURM metrics info button](#slide27) <br>
->[The TACC Stats metrics info button](#slide28) <br>
->[The SLURM jobs status button](#slide29) <br>
->[The User guide button](#slide30) <br>
+* [The data collector tab](#slide12)
+* [Start data collection on a running job](#slide13)
+* [More control options for data collection](#slide14)
+* [Different approaches to start data collection in RP-Stats](#slide15)
+* [The setting button](#slide17)
+* [The SLURM mode button](#slide18)
+* [The add user-defined module button](#slide19)
+* [Load user-defined module file](#slide20)
+* [The Information button](#slide21)
+* [The paths and job info button](#slide22)
+* [The RP modules info button](#slide23)
+* [The RP settings info button](#slide24)
+* [The user-metrics info button](#slide25)
+* [The RP metrics info button](#slide26)
+* [The SLURM metrics info button](#slide27)
+* [The TACC Stats metrics info button](#slide28)
+* [The SLURM jobs status button](#slide29)
+* [The User guide button](#slide30) <br>
 
 [[Main]](../../user_guide.md)
 [[Basics]](./basics.md) 

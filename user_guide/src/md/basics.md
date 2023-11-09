@@ -1,15 +1,15 @@
 # Basics <a id='table_of_contents-basics'></a>
 
 ### Table of Contents
->[Start JupyterLab with RP-Stats on Frontera](#slide2)  <br>
->[JupyterLab user interface](#slide3)  <br>
->[Three basic modes](#slide4)  <br>
->[RP data_dir directory](#slide5) <br>
->[RP modules](#slide6) <br>
->[Job metrics](#slide7) <br>
->[Ways to start data collection for a job](#slide9) <br>
->[Batch mode (RP wrapper script)](#slide10) <br>
->[Python mode (RP Python library)](#slide11) <br>
+* [Start JupyterLab with RP-Stats on Frontera](#slide2)
+* [JupyterLab user interface](#slide3)
+* [Three basic modes](#slide4)
+* [RP data_dir directory](#slide5)
+* [RP modules](#slide6)
+* [Job metrics](#slide7)
+* [Ways to start data collection for a job](#slide9)
+* [Batch mode (RP wrapper script)](#slide10)
+* [Python mode (RP Python library)](#slide11) <br>
 
 [[Main]](../../user_guide.md)
 [[Collector]](./collector.md)
