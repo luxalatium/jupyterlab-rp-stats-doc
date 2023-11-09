@@ -211,33 +211,105 @@
 
 <img id='slide22' src="../png/Slide22.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Info button: PATHS </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-path.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide23' src="../png/Slide23.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Info button: RP MODULES </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-rp-modules.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-collector)
 
 <img id='slide24' src="../png/Slide24.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Info button: RP SETTINGS </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-rp-settings.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide25' src="../png/Slide25.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Info button: USER-METRICS </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-user-metrics.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-collector)
 
 <img id='slide26' src="../png/Slide26.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Info button: RP-METRICS </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-rp-metrics.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide27' src="../png/Slide27.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Info button: SL-METRICS </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-sl-metrics.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-collector)
 
 <img id='slide28' src="../png/Slide28.png" alt="drawing" width="1080"/>
 
+<details>
+<summary>[DEMO] Info button: TS-METRICS </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-ts-metrics.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
+
 [[Top]](#table_of_contents-collector)
 
 <img id='slide29' src="../png/Slide29.png" alt="drawing" width="1080"/>
+
+<details>
+<summary>[DEMO] Info button: SLURM JOBS </summary>
+<br>
+<p align="center">
+<img src="../gif/rpstats-info-sl-metrics.gif" alt="drawing" width="600"/>
+</p>
+</details>
+<br>
 
 [[Top]](#table_of_contents-collector)
 
